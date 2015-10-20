@@ -1,2 +1,6 @@
 # DVEW-Gewinnt
 Just some 20 minute project I wrote during a lecture...
+
+Will work fine in any vt100 compatible console using the default lua interpreter.
+
+But you wont have fun with this game...
